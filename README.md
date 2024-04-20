@@ -7,3 +7,10 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 
 ![Snake animation](https://github.com/xSXGx/xSXGx/blob/master/GridSnake.svg)
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/xSXGx/count.svg?"  />
+</div>
+
+###
