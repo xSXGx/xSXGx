@@ -1,6 +1,6 @@
 <p align="left"> </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+xSXGx.+Welcome!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Fing3rSword.+Welcome!)
 
 
 📚 I'm currently learning Python.
